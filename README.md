@@ -1,4 +1,4 @@
-# movie-ticket-MS
+# movie-ticket-management-system
 This is OOP based movie ticket management system in C++.
 It can be rectified to make a great project
 
